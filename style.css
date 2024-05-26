@@ -1,0 +1,25 @@
+body {
+    font-family: cursive;
+    background-color: bisque;
+    color: palevioletred
+}
+
+header a {
+    background-color: blue;
+    border-radius: 5px;
+    padding: 5px;
+    position: relative;
+    top: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    background-color: black;
+}
+
+header {
+    background-color: brown;
+    height: 40px;
+}
+
