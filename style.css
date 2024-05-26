@@ -1,7 +1,7 @@
 body {
     font-family: cursive;
     background-color: bisque;
-    color: palevioletred
+    color: palevioletred;
 }
 
 header a {
@@ -16,10 +16,11 @@ header a {
 
 footer {
     background-color: black;
+    display: flex;
+    justify-content: center;
 }
 
 header {
     background-color: brown;
     height: 40px;
 }
-
